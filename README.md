@@ -1,4 +1,4 @@
-# Git Merge Conflicts
+ # Git Merge Conflicts
 
 ## Learning Goals
 
@@ -61,7 +61,6 @@ To accomplish this, you're going to be following six steps, listed below:
    conflict"
 4. Fix the merge conflict
 5. Delete Doc and Marty's branches on your computer
-6. Verify that Doc and Marty's branches have been integrated to your local
    `master` branch.
 
 ### Step 1: Confirm You Have Both Branches
